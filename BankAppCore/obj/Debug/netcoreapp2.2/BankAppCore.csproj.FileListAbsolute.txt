@@ -1,0 +1,15 @@
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.csprojAssemblyReference.cache
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.RazorAssemblyInfo.cache
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.RazorAssemblyInfo.cs
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.AssemblyInfo.cs
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\bin\Debug\netcoreapp2.2\BankAppCore.deps.json
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\bin\Debug\netcoreapp2.2\BankAppCore.runtimeconfig.json
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\bin\Debug\netcoreapp2.2\BankAppCore.runtimeconfig.dev.json
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\bin\Debug\netcoreapp2.2\BankAppCore.dll
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.RazorTargetAssemblyInfo.cache
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\bin\Debug\netcoreapp2.2\BankAppCore.pdb
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.dll
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\obj\Debug\netcoreapp2.2\BankAppCore.pdb
+C:\Users\Bogdy\source\repos\BankAppCore\BankAppCore\bin\Debug\netcoreapp2.2\BankAppCore.xml
